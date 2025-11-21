@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam!</h1>
-<h3 align="center">🎮 A passionate 3D Artist and Game Developer from Spain 🎮</h3>
+<h3 align="center">🎮 A passionate Technical Artist and Software Engineer from Spain 🎮</h3>
 
 - 📩 How to reach me **samblazquez2@gmail.com**
 
